@@ -1,0 +1,10 @@
+! Title: jeichhor - Consent Management Plattforms
+! Expires: 4 days
+! Description: blocs Consent Management Plattforms
+
+
+||usercentrics.eu
+||consensu.org
+||trustarc.com
+||truste.com
+
