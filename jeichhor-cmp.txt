@@ -13,3 +13,4 @@
 ||cookiefirst.com
 ||privacy-mgmt.com
 ||onetrust.com
+||sdk.privacy-center.org
