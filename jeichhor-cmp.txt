@@ -16,3 +16,4 @@
 ||sdk.privacy-center.org
 ||consentmanager.net
 ||cookieinformation.com
+||privacymanager.io
