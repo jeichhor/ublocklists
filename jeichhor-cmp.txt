@@ -17,3 +17,6 @@
 ||consentmanager.net
 ||cookieinformation.com
 ||privacymanager.io
+||gatekeeperconsent.com
+||cookie-script.com
+
